@@ -29,9 +29,10 @@ img {
     max-width: 100%; 
     height: auto;
     display: inline;
-    border: solid 2px #cd7e51;
+    border: solid 2px #eddd88;
     margin-right: 5px;
-    
+
+     
     
 }
 
@@ -55,6 +56,7 @@ td {
     flex-direction: column;
     justify-content: flex-start;
     width: 33%;
+    height: 100%;
 }
 
 
