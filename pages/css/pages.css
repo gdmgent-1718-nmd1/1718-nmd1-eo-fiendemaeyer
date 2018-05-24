@@ -17,6 +17,9 @@ body {
 
 h2 {
     font-family: "KeeponTruckin";
+    color: #cd7e51; 
+    font-size: 20px;
+    letter-spacing: 1px;
 }
 img {
     max-width: 100%; 
