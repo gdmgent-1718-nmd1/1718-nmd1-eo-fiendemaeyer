@@ -17,14 +17,13 @@ body {
 h1 {
     font-size: 30px;
     font-family: "KeeponTruckin";
-    color: #eddd88;
+    color:#cd7e51;
     letter-spacing: 1px;
 }
 
 h2 {
-    color: #cd7e51; 
+    color: #eddd88;
     font-size: 25px;
-    letter-spacing: 1px;
 }
 img {
     max-width: 100%; 
