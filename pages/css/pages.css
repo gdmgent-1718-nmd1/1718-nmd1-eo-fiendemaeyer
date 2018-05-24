@@ -29,7 +29,6 @@ img {
     max-width: 100%; 
     height: auto;
     display: inline;
-    border: solid 2px #eddd88;
     margin-right: 5px;
 }
 
@@ -45,9 +44,10 @@ td {
 .rij {
     display: block;
 }
-.rij>image {
+.rij>img {
     display:inline-block;
     width: 100%;
+    border: solid 2px #eddd88;
 }
 
 @media screen and (min-width: 881px) {
@@ -65,6 +65,7 @@ td {
         justify-content: flex-start;
         width: 33%;
         height: 100%;
+        border: solid 2px #eddd88;
     }
 }
 
@@ -121,10 +122,10 @@ color: #fff;
   }
 
   .scenario {
-      width: 50%;
-      display: flex;
+      
   }
 
   .scenario img {
-      max-width: 250px;
+      max-width: 25px;
+      
   }
