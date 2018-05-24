@@ -119,3 +119,12 @@ color: #fff;
   fieldset:disabled a.btn {
     pointer-events: none;
   }
+
+  .scenario {
+      width: 50%;
+      display: flex;
+  }
+
+  .scenario img {
+      max-width: 250px;
+  }
