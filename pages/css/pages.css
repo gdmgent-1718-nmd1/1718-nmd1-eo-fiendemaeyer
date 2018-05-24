@@ -40,7 +40,21 @@ table {
 }
 
 td {
-    vertical-align: top
+    vertical-align: top;
+}
+
+.rij {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+
+}
+
+.rij>img {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 33%;
 }
 
 
