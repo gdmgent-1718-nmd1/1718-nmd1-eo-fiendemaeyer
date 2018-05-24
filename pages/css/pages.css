@@ -33,12 +33,10 @@ img {
     margin-right: 5px;
 }
 
-table {
-
-}
 
 td {
     vertical-align: top;
+    width: 50%;
 }
 
 .rij {
@@ -87,14 +85,14 @@ td {
   margin-bottom: 10px;
 
 color: #fff;
-  background-color: #eddd88;
-  border-color: #eddd88;
+  background-color: #cd7e51;
+  border-color: #cd7e51;
 }
 
 .button:hover, .btn:focus {
     text-decoration: none;
-    background-color: #fff5c4;
-    border-color: #fff5c4;
+    background-color: #db9974;
+    border-color: #db9974;
   }
   
   .button:focus, .btn.focus {
