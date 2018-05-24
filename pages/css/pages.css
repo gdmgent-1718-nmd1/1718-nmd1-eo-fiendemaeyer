@@ -15,13 +15,13 @@ body {
     padding: 25px;
 }
 h1 {
+    font-size: 30px;
     font-family: "KeeponTruckin";
     color: #eddd88;
     letter-spacing: 1px;
 }
 
 h2 {
-    font-family: "KeeponTruckin";
     color: #cd7e51; 
     font-size: 25px;
     letter-spacing: 1px;
