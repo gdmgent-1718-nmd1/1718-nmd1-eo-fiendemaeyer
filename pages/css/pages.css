@@ -12,10 +12,11 @@ body {
 }
 
 img {
-    max-width: 280px; 
+    max-width: 500px; 
     height: auto;
     display: inline;
-    border: solid 1px #cd7e51;
+    border: solid 2px #cd7e51;
+    margin-right: 5px;
     
 }
 
