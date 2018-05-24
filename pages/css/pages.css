@@ -31,9 +31,6 @@ img {
     display: inline;
     border: solid 2px #eddd88;
     margin-right: 5px;
-
-     
-    
 }
 
 table {
@@ -45,20 +42,27 @@ td {
 }
 
 .rij {
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-
+    display: block;
+}
+.rij>image {
+    display:inline-block;
+    width: 100%;
 }
 
-.rij>img {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    width: 33%;
-    height: 100%;
+@media screen and (min-width: 881px) {
+  
+    .rij {
+        display: flex;
+        flex-direction: row;
+        justify-content: left;
+    
+    }
+    
+    .rij>img {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        width: 33%;
+        height: 100%;
+    }
 }
-
-
-
-/* Voeg jouw css hieraan toe */
