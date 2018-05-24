@@ -12,10 +12,15 @@ body {
 }
 
 img {
-    max-width: 100%; 
+    max-width: 280px; 
     height: auto;
-                     
-    /* Afbeeldingen responsive maken */
+    display: inline;
+    border: solid 1px #cd7e51;
+    
+}
+
+td {
+    vertical-align: top
 }
 
 
