@@ -151,8 +151,8 @@ color: #fff;
       color: black;
   }
 
-  .Homepage a p {display:none;}
-  .Homepage a:hover p {display:block;}
+  .Homepage p {display:none;}
+  .Homepage p:hover {display:block;}
 
   /* DropdownMenu */
   .clearfix:after {
