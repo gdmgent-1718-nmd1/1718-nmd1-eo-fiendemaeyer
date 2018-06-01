@@ -153,8 +153,8 @@ color: #fff;
 
   .logo:hover, .logo:focus {
     text-decoration: none;
-    background-color: #db9974;
-    border-color: #db9974;
+    background-color: white;
+    border-color: white;
   }
 
   /* DropdownMenu */
