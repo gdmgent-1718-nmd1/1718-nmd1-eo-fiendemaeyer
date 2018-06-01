@@ -151,7 +151,7 @@ color: #fff;
       color: black;
   }
 
-  .logo:hover, .btn:focus {
+  .logo:hover, .logo:focus {
     text-decoration: none;
     background-color: #db9974;
     border-color: #db9974;
