@@ -151,6 +151,14 @@ color: #fff;
       color: black;
   }
 
+  .lettertype3 {
+      font-size: 23pt;
+      font-family: "KeeponTruckin";
+      color:#cd7e51;
+      line-height: 35px;
+
+  }
+
   .Homepage p {display:none;}
   .Homepage p:hover {display:block;}
 
