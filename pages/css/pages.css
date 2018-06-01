@@ -143,7 +143,7 @@ color: #fff;
     font-size: 34pt;
     font-family: "KeeponTruckin";
     color:#cd7e51;
-    line-height: 5px;
+    line-height: 50px;
   }
 
   .lettertype2 {
@@ -178,7 +178,7 @@ color: #fff;
             }
         .menu a {
         transition:all linear 0.15s;
-        color:#eaa681;opacity:0.2;;
+        color:#cd7d50;
         }
         .menu li:hover > a, .menu .current-item > a {
         text-decoration:none;
