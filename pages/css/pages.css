@@ -193,7 +193,7 @@ color: #fff;
         float:left;
         display:inline-block;
         position:relative;
-        font-size:19px;
+        font-size:33px;
         font-family: "KeeponTruckin";
         color:#cd7d50;
         }
@@ -204,7 +204,7 @@ color: #fff;
         font-family: "KeeponTruckin";
         }
         .menu > ul > li:hover > a, .menu > ul > .current-item > a {
-         background:#eaa681;opacity:0.2;;
+         background:#eaa681;
         }
         .sub-menu {
             width:160%;
