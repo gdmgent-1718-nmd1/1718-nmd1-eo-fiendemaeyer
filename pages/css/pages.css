@@ -223,3 +223,9 @@ color: #fff;
                 }
 /* DropdownMenu */
 
+.foto:hover .image {
+    opacity: 0.3;
+}
+
+        
+
