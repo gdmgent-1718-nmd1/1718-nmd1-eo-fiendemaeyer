@@ -227,5 +227,18 @@ color: #fff;
     opacity: 0.3;
 }
 
+.zaal {
+border-radius: 20%;
+border: solid 2px #D28156;
+background-color:white;
+width: 200px;
+height: 50px;
+}
+
+.zaal2 {
+    text-align: center;
+    padding-top: 10px;
+    color:#D28156;
+}
         
 
