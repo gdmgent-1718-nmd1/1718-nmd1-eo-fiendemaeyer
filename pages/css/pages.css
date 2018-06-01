@@ -172,11 +172,12 @@ color: #fff;
         .menu li {
             margin:0px;
             list-style:none;
-            font-family:'Ek Mukta';
+            font-family: "KeeponTruckin";
+            color:#cd7d50;
             }
         .menu a {
         transition:all linear 0.15s;
-        color:#919191;
+        color:#eaa681;opacity:0.2;;
         }
         .menu li:hover > a, .menu .current-item > a {
         text-decoration:none;
@@ -197,9 +198,10 @@ color: #fff;
         padding:10px 40px;
         display:inline-block;
         text-shadow:0px 1px 0px rgba(0,0,0,0.4);
+        font-family: "KeeponTruckin";
         }
         .menu > ul > li:hover > a, .menu > ul > .current-item > a {
-         background:#2e2728;
+         background:#eaa681;opacity:0.2;;
         }
         .sub-menu {
             width:160%;
