@@ -161,7 +161,6 @@ color: #fff;
     }
      .menu-wrap {
         width:100%;
-        box-shadow:0px 1px 3px rgba(0,0,0,0.2);
         background:#eaa681;
         }
         .menu {
@@ -215,7 +214,7 @@ color: #fff;
             opacity:0;
             transition:opacity linear 0.15s;
             box-shadow:0px 2px 3px rgba(0,0,0,0.2);
-            background:#2e2728;
+            background:#eaa681;
             }
         .menu li:hover .sub-menu {
         z-index:1;
@@ -261,7 +260,7 @@ height: 50px;
         font-size: 23px;
         font-family: "KeeponTruckin";
         margin-top: -39px;
-        margin-left: 178px;
+        margin-left: 24px;
     }
         
 
