@@ -151,11 +151,8 @@ color: #fff;
       color: black;
   }
 
-  .logo:hover, .logo:focus {
-    text-decoration: none;
-    background-color: white;
-    border-color: white;
-  }
+  .Homepage a p {display:none;}
+  .Homepage a:hover p {display:block;}
 
   /* DropdownMenu */
   .clearfix:after {
