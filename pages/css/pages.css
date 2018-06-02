@@ -134,9 +134,6 @@ color: #fff;
       
   }
 
-  .logo {
-
-  }
 
   .lettertype1 {
     font-size: 34pt;
@@ -158,9 +155,6 @@ color: #fff;
       line-height: 35px;
 
   }
-
-  .Homepage p {display:none;}
-  .Homepage p:hover {display:block;}
 
   /* DropdownMenu */
   .clearfix:after {
