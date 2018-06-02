@@ -239,35 +239,19 @@ color: #fff;
 }
 
 /*knoppen*/
-.zaal {
-border-radius: 60px;
-border: solid 2px #D28156;
-background-color:white;
-width: 200px;
-height: 50px;
-display: inline-block;
-}
-
-.zaal p {
-    padding-top: 10px;
-    color:#D28156;
-    font-size: 23px;
-    font-family: "KeeponTruckin";
-}
-
-.locker {
+.locker-zaal {
     border-radius: 60px;
     border: solid 2px #D28156;
     background-color:white;
-    width: 200px;
-    height: 50px;
+    padding: 15px 15px;
     display: inline-block;
     }
     
-    .locker p {
-        text-align: center;
+    .locker-zaal p {
         color:#D28156;
         font-size: 23px;
+        padding:0;
+        margin:0;
         font-family: "KeeponTruckin";
     }
 
