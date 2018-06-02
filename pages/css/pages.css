@@ -263,3 +263,18 @@ color: #fff;
 
 /*knoppen*/ 
 
+/* Kleur */
+.kleur {
+    width:25px;
+    margin-right:10px;
+    margin-bottom:-5px;
+    height:25px;
+    display:inline-block;
+    border-radius:50%;
+}
+.kleur1 {
+    background-color: rgb(205, 126, 81);
+}
+.kleur2 {
+    background-color: rgb(231, 165, 129);
+}
