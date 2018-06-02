@@ -55,7 +55,6 @@ td {
 }
 
 @media screen and (min-width: 881px) {
-  
     .rij {
         display: flex;
         flex-direction: row;
@@ -166,7 +165,6 @@ color: #fff;
         background:#eaa681;
         }
         .menu {
-        width:1000px;
         margin:0px auto;
         }
 
@@ -174,15 +172,14 @@ color: #fff;
             margin-left:36px;
             list-style:none;
             font-family: "KeeponTruckin";
-            color:#cd7d50;
             }
         .menu a {
         transition:all linear 0.15s;
-        color:#cd7d50;
+        color:#cd7e51;
         }
         .menu li:hover > a, .menu .current-item > a {
         text-decoration:none;
-        background-color: #db9974;
+        background-color: #cd7e51;
         border-color: #db9974;
         }
         .menu .arrow {
@@ -203,11 +200,11 @@ color: #fff;
         font-family: "KeeponTruckin";
         text-decoration: none;
         padding:5px 10px;
-        color:#F2A07E;
+        color:#cd7e51;
         }
         .menu a:hover {
             color:white;
-            background-color: #F2A07E;
+            background-color: #cd7e51;
         }
         .sub-menu {
             width:120%;
@@ -224,9 +221,16 @@ color: #fff;
             margin-left:0;
         }
         .menu li:hover .sub-menu {
-        z-index:1;
-        opacity:1;
-                }
+            z-index:1;
+            opacity:1;
+        }
+
+        @media screen and (min-width: 881px) {
+            .menu li {
+                
+            }
+        }
+            
 /* DropdownMenu */
 
 .foto:hover .image {
