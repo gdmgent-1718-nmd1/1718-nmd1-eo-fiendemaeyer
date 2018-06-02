@@ -195,7 +195,6 @@ color: #fff;
         position:relative;
         font-size:33px;
         font-family: "KeeponTruckin";
-        color:#cd7d50;
         }
         .menu a {
         padding:0px 0px;
@@ -204,12 +203,11 @@ color: #fff;
         font-family: "KeeponTruckin";
         text-decoration: none;
         padding:5px 10px;
+        color:#F2A07E;
         }
         .menu a:hover {
             color:white;
-        }
-        .menu > ul > li:hover > a, .menu > ul > .current-item > a {
-         color:#F2A07E;
+            background-color: #F2A07E;
         }
         .sub-menu {
             width:120%;
