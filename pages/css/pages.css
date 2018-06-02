@@ -249,6 +249,8 @@ color: #fff;
 }
 .locker-zaal:hover {
     background-color:#D28156;
+}
+.locker-zaal:hover p {
     color:white;
 }
 .locker-zaal p {
