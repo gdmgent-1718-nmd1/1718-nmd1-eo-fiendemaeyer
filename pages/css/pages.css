@@ -244,10 +244,12 @@ border: solid 2px #D28156;
 background-color:white;
 width: 200px;
 height: 50px;
+display: inline;
 }
 
 .zaal p {
     padding-top: 10px;
+    color:#D28156;
     font-size: 23px;
     font-family: "KeeponTruckin";
 }
@@ -258,6 +260,7 @@ height: 50px;
     background-color:white;
     width: 200px;
     height: 50px;
+    display: inline;
     }
     
     .locker p {
