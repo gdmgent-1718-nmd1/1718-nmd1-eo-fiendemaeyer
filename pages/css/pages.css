@@ -245,15 +245,19 @@ color: #fff;
     background-color:white;
     padding: 15px 15px;
     display: inline-block;
-    }
-    
-    .locker-zaal p {
-        color:#D28156;
-        font-size: 23px;
-        padding:0;
-        margin:0;
-        font-family: "KeeponTruckin";
-    }
+    cursor:pointer;
+}
+.locker-zaal:hover {
+    background-color:#D28156;
+    color:white;
+}
+.locker-zaal p {
+    color:#D28156;
+    font-size: 23px;
+    padding:0;
+    margin:0;
+    font-family: "KeeponTruckin";
+}
 
 /*knoppen*/ 
 
