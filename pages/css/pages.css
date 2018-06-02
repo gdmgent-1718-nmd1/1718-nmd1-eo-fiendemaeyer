@@ -203,14 +203,13 @@ color: #fff;
         text-shadow:0px 1px 0px rgba(0,0,0,0.4);
         font-family: "KeeponTruckin";
         text-decoration: none;
+        padding:5px 10px;
         }
         .menu a:hover {
             color:white;
         }
         .menu > ul > li:hover > a, .menu > ul > .current-item > a {
-         background:#eaa681;
          color:#F2A07E;
-         padding:5px 10px;
         }
         .sub-menu {
             width:120%;
