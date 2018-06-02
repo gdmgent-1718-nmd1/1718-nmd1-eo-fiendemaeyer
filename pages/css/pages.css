@@ -162,7 +162,8 @@ color: #fff;
     }
      .menu-wrap {
         width:100%;
-        background:#eaa681;
+        background:#eaa681;        
+        margin-bottom: 150px;
         }
         .menu {
         margin:0px auto;
