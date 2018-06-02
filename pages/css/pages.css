@@ -204,7 +204,7 @@ color: #fff;
         }
         .menu a:hover {
             color:white;
-            background-color: #cd7e51;
+            background-color: #F2A07E;
         }
         .sub-menu {
             width:120%;
@@ -246,9 +246,8 @@ width: 200px;
 height: 50px;
 }
 
-.zaal2 {
+.zaal p {
     padding-top: 10px;
-    color:#D28156;
     font-size: 23px;
     font-family: "KeeponTruckin";
     margin-top: -48px;
@@ -266,7 +265,7 @@ height: 50px;
     margin-left: 230px;
     }
     
-    .locker2 {
+    .locker p {
         text-align: center;
         color:#D28156;
         font-size: 23px;
